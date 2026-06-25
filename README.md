@@ -9,9 +9,9 @@ Desenvolvido como projeto acadêmico na disciplina de **Modelagem Tridimensional
 O projeto está online e pode ser acessado diretamente pelo navegador do seu smartphone:
 
 1. Acesse o site através do link do GitHub Pages:  
-   `https://seu-usuario.github.io/os-ares-do-cangaco/`
+   `https://laisqueiroz.github.io/ares_do_cangaco/`
 2. Dê permissão para o site utilizar a câmera do seu dispositivo.
-3. Aponte a câmera para o marcador **`marker.patt`** para visualizar o modelo 3D do hidroavião interativo.
+3. Aponte a câmera para o marcador **`midia/marker_ar.png`** para visualizar o modelo 3D do hidroavião interativo.
 
 ## 🛠️ Tecnologias Utilizadas
 
